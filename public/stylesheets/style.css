@@ -1,0 +1,21 @@
+body {
+  padding: 0px;
+  margin:0px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.wrapper .laydate {
+    float: left;
+    margin-left: 50px;
+}
+
+.from {
+    width: 865px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 10px 0;
+}
